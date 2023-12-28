@@ -40,7 +40,7 @@ function Footer() {
                 </div>
 
             </div>
-            <p>Copyright @ 2023 Media Player. Build with React</p>
+            <p>Copyright © 2023 Media Player. Build with React</p>
         </div>
     )
 }
